@@ -1,4 +1,4 @@
-# BEst me App
+# Best me App
 
 Encontre sua melhor versão!
 
